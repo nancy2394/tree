@@ -1,0 +1,18 @@
+.dentro
+{ position:relative;
+height:300px; top:20px; width:100%;}
+.plaisio
+{height:400px; 
+  width:45%;
+    border:1px; solid red;
+  margin:30px auto;}
+.euxes{ font-family: "mountains of christmas", cursive; 
+  font-size:35px; 
+  color:red;  
+margin-top:20px;}
+.tree{ position:relative; color:green; font-size:220px; padding-left:120px; left:40px}
+.star{color:yellow; font-size:30px; position:relative; bottom:195px; right:60px;}
+.bell{color:red; position:relative; right:50px; bottom:95px;}
+.snow{color:white; position:relative; right:150px; bottom:70px;}
+.gift{color:red; position:relative; right:160px; font-size:20px;}
+.diamond{color:blue; position:relative; right:140px; bottom:150px;}
